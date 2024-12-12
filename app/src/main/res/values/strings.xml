@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Taxista</string>
+    <string name="gcm_defaultSenderId" translatable="false">870355149754</string>
+    <string name="google_api_key" translatable="false">AIzaSyDWTC857ca8S5i6emC4MG1KNukelLgSj9g</string>
+    <string name="google_app_id" translatable="false">1:870355149754:android:acccbe746646da2ef1f383</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWTC857ca8S5i6emC4MG1KNukelLgSj9g</string>
+    <string name="google_storage_bucket" translatable="false">taxista-98464.firebasestorage.app</string>
+    <string name="project_id" translatable="false">taxista-98464</string>
+    <string name="default_web_client_id" translatable="false">870355149754-qcmcf5aqgd5hnbvgk2gu7d4vn6kqgv4k.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870355149754",
+    "project_id": "taxista-98464",
+    "storage_bucket": "taxista-98464.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870355149754:android:acccbe746646da2ef1f383",
+        "android_client_info": {
+          "package_name": "com.example.taxista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870355149754-8skdlqut9vv9g1eev4n08ntu37mlq9aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxista",
+            "certificate_hash": "be0273ab40249110f9af8da694b44bcfb1bc5931"
+          }
+        },
+        {
+          "client_id": "870355149754-17anrsoua102i3fn2fcs3tc0e2idnbh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWTC857ca8S5i6emC4MG1KNukelLgSj9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870355149754-17anrsoua102i3fn2fcs3tc0e2idnbh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
